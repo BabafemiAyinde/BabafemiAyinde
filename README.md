@@ -22,7 +22,8 @@ I am a recent graduate with a profound interest in technology and a dedication t
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-See All Cybersecurity Projects>>
+<b>See All Cybersecurity Projects>>></b>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -42,7 +43,8 @@ See All Cybersecurity Projects>>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-See All Software Development Projects>>
+<b>See All Software Development Projects>>></b>
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
