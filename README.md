@@ -1,4 +1,4 @@
-<h1>Hi, I'm Babafemi (Femi for short) <br/><a href="https://www.linkedin.com/in/femiayinde/">Cybersecurity Professional</a>, <a href="https://github.com/BabafemiAyinde">Software Engineer</a> and <a href="https://www.linkedin.com/in/femiayinde/">Tech Consultant</a></h1>
+<h1>Hi, I'm Babafemi (Femi for short) <br/><a href="https://www.linkedin.com/in/femiayinde/">Technology Consultant</a>, <a href="https://github.com/BabafemiAyinde">Cybersecurity Professional</a> and <a href="https://www.linkedin.com/in/femiayinde/">Software Engineer</a></h1>
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -24,6 +24,25 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 <b>See All Cybersecurity Projects>>></b>
 
+<h2>👨‍💻 Technology Consulting Work:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Deployment of Emergency Response Communications and IT infrastructure at Oil & Gas Agency</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Hybrid cloud infrastructure using Microsoft Azure Virtual Servers, integrated with Single Sign-On (SSO) and on-premise Active Directory</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<b>See All Technology Consulting Work>>></b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
