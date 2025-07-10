@@ -32,7 +32,7 @@ I'm a seasoned IT professional with over a decade of experience in enterprise sy
 
 ---
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects </a>with a side of <a href="https://github.com/BabafemiAyinde/cybersecurity-portfolio)/">Cybersecurity Portfolio</a></h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
