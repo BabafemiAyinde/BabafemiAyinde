@@ -1,4 +1,4 @@
-<h1>Hi, I'm Babafemi (Femi for short) <br/><a href="https://www.linkedin.com/in/femiayinde/">Technology Consultant</a>, <a href="https://github.com/BabafemiAyinde">Cybersecurity Professional</a> and <a href="https://www.linkedin.com/in/femiayinde/">Software Engineer</a></h1>
+<h1>Hi, I'm Femi, <br/><a href="https://www.linkedin.com/in/femiayinde/"></a>, <a href="https://github.com/BabafemiAyinde"> IT Pro </a>with a side of<a href="https://www.linkedin.com/in/femiayinde/">Dev</a></h1>
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
