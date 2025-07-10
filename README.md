@@ -1,8 +1,36 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/femiayinde/">Femi</a>, <a href="https://github.com/BabafemiAyinde"> IT Pro </a>with a side of <a href="https://www.linkedin.com/in/femiayinde/">Dev</a></h1>
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/femiayinde"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm a seasoned IT professional with over a decade of experience in enterprise systems architecture, implementation and support; cloud infrastructure and cybersecurity. I help organizations build secure, scalable, and efficient IT environments and, very often,  roll up my sleeves to write code and build solutions. I’ve helped businesses design secure networks, deploy scalable cloud solutions, and streamline their IT operations — while also exploring the creative side of software and web development. I am currently exploring the world of Predictive and Agentic AI** — autonomous agents, LLM tooling, and intelligent workflows. 
+
+---
+
+## 🛠️ What I Do
+
+- 🔐 **Cybersecurity & Risk Management**  
+  Information ystems architecture, design and implementation, ISO 27001 implementation, vulnerability assessments, security audits, and endpoint protection strategies.
+
+- ☁️ **Cloud & IT Infrastructure**  
+  Deployment and support across Microsoft 365, Azure, DNS, backup systems, and hybrid environments.
+
+- 🖥️ **Technical Support & IT Consulting**  
+  Remote support for 100+ users, system rollouts, infrastructure planning, IT governance, and process automation.
+
+- 💻 **Web & Software Development**  
+  Front-end with HTML, CSS, JavaScript; back-end in PHP/WordPress; NodeJS, Python and REST APIs.
+
+---
+
+## 📚 What I'm Learning
+
+- 🧠 **Agentic Artificial Intelligence** – Investigating the architecture and capabilities of autonomous AI agents, including goal-driven behavior, long-term memory, and multi-step reasoning frameworks.
+- 📊 **Predictive AI & Machine Learning Models** – Exploring supervised and unsupervised learning techniques for forecasting, anomaly detection, and intelligent automation using real-world datasets.
+- 💻 **AI-Integrated Software Development** – Building foundational skills in developing AI-driven applications, integrating LLMs via APIs, and leveraging tools for prompt engineering, model fine-tuning, and real-time inference.
+- ☁️ Cloud security architecture (Azure & AWS)  
+
+
+---
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
