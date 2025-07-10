@@ -29,11 +29,13 @@ I'm a seasoned IT professional with over a decade of experience in enterprise sy
 - 💻 **AI-Integrated Software Development** – Building foundational skills in developing AI-driven applications, integrating LLMs via APIs, and leveraging tools for prompt engineering, model fine-tuning, and real-time inference.
 - ☁️ Cloud security architecture (Azure & AWS)  
 
-
 ---
 
-<h2>👨‍💻 Cybersecurity Projects </a>with a side of <a href="https://github.com/BabafemiAyinde/cybersecurity-portfolio)/">Cybersecurity Portfolio</a></h2>
+<h2>👨‍💻<a href="#">Cybersecurity Portfolio</a></h2>
 
+***Under Construction...***
+
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -154,7 +156,7 @@ I'm a seasoned IT professional with over a decade of experience in enterprise sy
 [twitter]: https://twitter.com/joshmadakor
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
